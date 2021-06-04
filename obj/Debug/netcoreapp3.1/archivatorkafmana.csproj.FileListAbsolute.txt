@@ -1,0 +1,13 @@
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\bin\Debug\netcoreapp3.1\archivatorkafmana.exe
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\bin\Debug\netcoreapp3.1\archivatorkafmana.deps.json
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\bin\Debug\netcoreapp3.1\archivatorkafmana.runtimeconfig.json
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\bin\Debug\netcoreapp3.1\archivatorkafmana.runtimeconfig.dev.json
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\bin\Debug\netcoreapp3.1\archivatorkafmana.dll
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\bin\Debug\netcoreapp3.1\archivatorkafmana.pdb
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\obj\Debug\netcoreapp3.1\archivatorkafmana.csprojAssemblyReference.cache
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\obj\Debug\netcoreapp3.1\archivatorkafmana.AssemblyInfoInputs.cache
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\obj\Debug\netcoreapp3.1\archivatorkafmana.AssemblyInfo.cs
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\obj\Debug\netcoreapp3.1\archivatorkafmana.csproj.CoreCompileInputs.cache
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\obj\Debug\netcoreapp3.1\archivatorkafmana.dll
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\obj\Debug\netcoreapp3.1\archivatorkafmana.pdb
+C:\Users\lozbenfe\source\repos\archivatorkafmana\archivatorkafmana\obj\Debug\netcoreapp3.1\archivatorkafmana.genruntimeconfig.cache
